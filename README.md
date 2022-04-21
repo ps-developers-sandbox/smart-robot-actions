@@ -1,2 +1,2 @@
-# smart-robot-actions
-Classroom repo custom content
+# HoboMinesCrossPlatform
+MonoGame OpenGL version  for Mac, Windows and Linux.
